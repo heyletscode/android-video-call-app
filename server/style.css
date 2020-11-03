@@ -1,0 +1,19 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.primary-video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.secondary-video {
+    position: absolute;
+    max-width: 30%;
+    width: 30%;
+    margin: 16px;
+    border-radius: 16px;
+}
